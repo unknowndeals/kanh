@@ -47,7 +47,7 @@ support_chat_id = environ.get('SUPPORT_CHAT_ID', '') # support group id ( make s
 reqst_channel = environ.get('REQST_CHANNEL_ID', '') # request channel id ( make sure bot is admin )
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
-NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
+NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://xadiney871:TEST1234@cluster0.peocucy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
