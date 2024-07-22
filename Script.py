@@ -11,7 +11,7 @@ I can work both in pm and group😉...
 
 Don't forget to Share Me who don't know me😶‍🌫️...</b>"""
 
-    GSTART_TXT = """ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/unknown_0501'>Ⓤ︎Ⓝ︎Ⓚ︎Ⓝ︎Ⓞ︎Ⓦ︎Ⓝ︎</a>"""
+    GSTART_TXT = """ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/TeamDxPanda'>TeamDxPanda</a>"""
     
     HELP_TXT = """<b>ʜᴇʏ {},
     
@@ -409,5 +409,5 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developer -
 
--Dev [Owner of this bot ]<a href='https://t.me/unknown_0501'>Ⓤ︎Ⓝ︎Ⓚ︎Ⓝ︎Ⓞ︎Ⓦ︎Ⓝ︎</a>
+-Dev [Owner of this bot ]<a href='https://t.me/TeamDxPanda'>TeamDxPanda</a>
 """
